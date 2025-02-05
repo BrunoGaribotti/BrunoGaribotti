@@ -9,7 +9,7 @@
 - 💬 Trabajé como programador de forma independiente para varios proyectos de diferentes clientes, además, estuve 2 años programando para una consultora fintech.
 - 📫 Para contactarse conmigo, podés hacerlo por LinkedIn: www.linkedin.com/in/brunogaribotti o a mi email personal bruno.gari@hotmail.com.
 
-## Debajo , te muestro algunos de mis proyectos más destacados, que voy mejorando periódicamente:
+## Debajo te muestro algunos de mis proyectos más destacados, que voy mejorando periódicamente:
 
 <!--
 **BrunoGaribotti/BrunoGaribotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
