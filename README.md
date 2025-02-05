@@ -1,4 +1,4 @@
-### ¡Hola! Mi nombre es Bruno Garibotti 👋
+# ¡Hola! Mi nombre es Bruno Garibotti 👋
 ![Banner de presentación](./banner.png)
 
 ## Sobre mí:
